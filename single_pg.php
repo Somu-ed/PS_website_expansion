@@ -125,8 +125,8 @@
                                         <p style="font-family: Helvetica Neue Regular; text-align: justify" data-dsn-animate="up">We endeavour towards a future to portray every authentic story on our designs. Every millennial today is busy hustling on a 9 to 5 job, 
                                             flipping away the greenery in their lives. Perfect Shades aims to bring out the artist in each and every individual through our products and serve as a flag 
                                             bearer towards the expansion of this field.</p>
-
-                                        <h6 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Sizes Available: A4, A5, 1200x400, custom</h6>
+                                        <br>
+                                        <h7 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Sizes Available: A4, A5, 1200x400, custom</h7>
                                     </div>
                                 </div>
 
@@ -161,8 +161,8 @@
                                         <p style="font-family: Helvetica Neue Regular; text-align: justify" data-dsn-animate="up">We endeavour towards a future to portray every authentic story on our designs. Every millennial today is busy hustling on a 9 to 5 job, 
                                             flipping away the greenery in their lives. Perfect Shades aims to bring out the artist in each and every individual through our products and serve as a flag 
                                             bearer towards the expansion of this field.</p>
-
-                                        <h6 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Sizes Available: A4, A5, 1200x400, custom</h6>
+                                        <br>
+                                        <h7 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Sizes Available : A4, A5, 1200x400, custom</h7>
                                     </div>
                                 </div>
 
