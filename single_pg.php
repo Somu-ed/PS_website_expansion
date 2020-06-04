@@ -120,7 +120,7 @@
                                             <h2 style= "font-family: Elemental_Endregular;" data-dsn-animate="up">OUR VISION</h2>
                                         </div>
 
-                                        <h6 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Price: &#8377; 0</h6>
+                                        <h6 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Price : &#8377; 0 onwards</h6>
 
                                         <p style="font-family: Helvetica Neue Regular; text-align: justify" data-dsn-animate="up">We endeavour towards a future to portray every authentic story on our designs. Every millennial today is busy hustling on a 9 to 5 job, 
                                             flipping away the greenery in their lives. Perfect Shades aims to bring out the artist in each and every individual through our products and serve as a flag 
@@ -156,7 +156,7 @@
                                             <h2 style= "font-family: Elemental_Endregular;" data-dsn-animate="up">OUR VISION</h2>
                                         </div>
 
-                                        <h6 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Price: &#8377; 0</h6>
+                                        <h6 style="font-family: Helvetica Neue Regular;" data-dsn-animate="up">Price : &#8377; 0 onwards</h6>
 
                                         <p style="font-family: Helvetica Neue Regular; text-align: justify" data-dsn-animate="up">We endeavour towards a future to portray every authentic story on our designs. Every millennial today is busy hustling on a 9 to 5 job, 
                                             flipping away the greenery in their lives. Perfect Shades aims to bring out the artist in each and every individual through our products and serve as a flag 
