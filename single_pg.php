@@ -52,7 +52,7 @@
                             <div class="slider-item swiper-slide">
                                 <div class="bg parallax-move-element" id="dsn-hero-parallax-img">
                                     <div class="bg-image cover-bg" data-overlay="0" data-dsn-ajax="img"
-                                        data-image-src="assets/img/project/project1/1.jpg"></div>
+                                        data-image-src="assets/img/GD/1.jpg"></div>
                                 </div>
 
                                 <div class="container h-100">
@@ -106,7 +106,7 @@
                             <div class="row align-items-center h-100">
                                 <div class="col-lg-6 ">
                                     <div class="box-im" data-dsn-grid="move-up" style="height: 50vh">
-                                        <img class="has-top-bottom" src="assets/img/project/project4/vision.jpg" alt=""
+                                        <img class="has-top-bottom" src="assets/img/GD/vision.jpg" alt=""
                                             data-dsn-move="17%">
                                     </div>
                                 </div>
@@ -142,7 +142,7 @@
                             <div class="row align-items-center h-100">
                                 <div class="col-lg-6">
                                     <div class="box-im" data-dsn-grid="move-up" style="height: 50vh">
-                                        <img class="has-top-bottom" src="assets/img/project/project4/vision.jpg" alt=""
+                                        <img class="has-top-bottom" src="assets/img/GD/vision.jpg" alt=""
                                             data-dsn-move="20%">
                                     </div>
                                 </div>
@@ -179,7 +179,7 @@
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up"
                         data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B2.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B2.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Blend</span>
                         </div>
@@ -190,7 +190,7 @@
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up"
                         data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B3.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B3.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Blend</span>
                         </div>
@@ -200,7 +200,7 @@
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up"
                         data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B4.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B4.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Blend</span>
                         </div>
@@ -209,7 +209,7 @@
 
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up" data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B5.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B5.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Blend</span>
                         </div>
@@ -218,7 +218,7 @@
 
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up" data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B6.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B6.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Blend</span>
                         </div>
@@ -227,7 +227,7 @@
 
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up" data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B7.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B7.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Blend</span>
                         </div>
@@ -236,7 +236,7 @@
 
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up" data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B8.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B8.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Athena</span>
                         </div>
@@ -245,7 +245,7 @@
 
                 <div class="container-fluid">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up" data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B9.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
+                        <img src="assets/img/GD/B9.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.01">
                         <div class="cap">
                             <span>Athena</span>
                         </div>
@@ -255,7 +255,7 @@
                 <!-- Last parallax div  -->
                 <div class="container-fluid section-margin mt-0">
                     <div class="img-box-small dsn-parallax-full" style="height: auto;" data-dsn-grid="move-up" data-dsn-triggerhook="0">
-                        <img src="assets/img/project/project8/B10.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.08">
+                        <img src="assets/img/GD/B10.jpg" alt="" data-dsn-y="30%" data-dsn-scale="1.08">
                         <div class="cap">
                             <span>Athena</span>
                         </div>
